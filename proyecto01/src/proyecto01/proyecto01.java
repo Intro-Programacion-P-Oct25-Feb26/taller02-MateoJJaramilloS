@@ -15,9 +15,11 @@ public class proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here 
-        System.out.println("Ejemplo básico de Java\n" +
-"Versionado a través de Git\n" +
-"Manejado desde GitHub");
+        System.out.println(
+                "Ejemplo de Java "
+                + "Manejado desde "
+                + "Versionado a través de Git "
+                + "Creado por MateoJJaramilloS");
 
     }
     
