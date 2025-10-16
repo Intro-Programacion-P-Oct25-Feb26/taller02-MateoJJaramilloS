@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package taller2;
+package proyecto01;
 
 /**
  *
  * @author UTPL
  */
-public class Taller2 {
+public class proyecto01 {
 
     /**
      * @param args the command line arguments
